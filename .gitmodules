@@ -1,0 +1,3 @@
+[submodule "winexe"]
+	path = winexe
+	url = https://github.com/max-linux/winexe.git
